@@ -1,5 +1,5 @@
 
-package com.distribuida.db;
+package com.distribuida.db.tienda;
 
 import io.quarkus.hibernate.orm.PersistenceUnit;
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
